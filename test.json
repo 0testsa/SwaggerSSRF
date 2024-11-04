@@ -1,8 +1,8 @@
 {
-    "url": "http://10.180.117.135/test.yaml",
+    "url": "https://raw.githubusercontent.com/0testsa/SwaggerSSRF/refs/heads/main/test.yaml",
     "urls": [
         {
-            "url": "http://10.180.117.135/test.yaml",
+            "url": "https://raw.githubusercontent.com/0testsa/SwaggerSSRF/refs/heads/main/test.yaml",
             "name": "Foo"
         }
     ]
